@@ -1,0 +1,6 @@
+{
+  "name": "agent-lira-generador-de-ideas-de-negocio--morwusha",
+  "version": "1.0.0",
+  "description": "Proyecto de Lira [Gen25]: generador de ideas de negocio con validacion",
+  "main": "index.js"
+}
